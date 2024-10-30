@@ -344,7 +344,7 @@ footer {
 }
 
 .copy {
-    color: var(--primary-shadow);
+    color: var(--primary-color);
 }
 
 @media screen and (max-width: 720px) {
